@@ -59,9 +59,9 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 3 Install dependencies:
 
 flutter pub get
----
+
 Run the app:
----
+
 flutter run 
 
 
@@ -76,7 +76,7 @@ Danah Mohammed Alrwaili
 Abeer Mohammed Alruwaili
 
 Supervisor: Dr. Abdulaziz Ibrahim Shehab
----
+
 ### 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
