@@ -66,7 +66,7 @@ flutter run
 
 
 ### 👩‍💻 Team Members
-
+---
 Amal Abdullah Alsirhani
 
 Enas Naif Alhudaib
@@ -78,6 +78,6 @@ Abeer Mohammed Alruwaili
 Supervisor: Dr. Abdulaziz Ibrahim Shehab
 
 ### 📜 License
-
+---
 This project is licensed under the MIT License – see the LICENSE
  file for details.
