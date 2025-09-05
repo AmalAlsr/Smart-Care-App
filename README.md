@@ -1,5 +1,9 @@
 # Smart-Care-App
 
+AI-powered mobile application for skin disease detection and personalized skincare recommendations using **Flutter**, **Firebase**, and **TensorFlow**.
+
+---
+
 ## 📖 Overview
 The **Smart Care App** is an AI-powered mobile application that helps users detect skin diseases and receive personalized skincare recommendations.  
 It uses **Flutter** for cross-platform development, **Firebase** for backend services, and **TensorFlow** for the AI model.
@@ -7,11 +11,11 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 ---
 
 ## 🎯 Features
-- Skin disease detection using Convolutional Neural Networks (CNN).  
-- Real-time image analysis with the smartphone camera.  
-- Personalized skincare routines and product suggestions.  
-- History tracking for monitoring skin improvements.  
-- Secure user authentication and data storage.  
+- 🔍 Skin disease detection using Convolutional Neural Networks (CNN).  
+- 📷 Real-time image analysis with the smartphone camera.  
+- 💡 Personalized skincare routines and product suggestions.  
+- 📝 History tracking for monitoring skin improvements.  
+- 🔐 Secure user authentication and data storage.  
 
 ---
 
@@ -26,6 +30,23 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 
 ## 📱 Screenshots
 
+### 🔐 Authentication
+![Login](docs/screenshots/login.png)  
+![Sign In](docs/screenshots/sign-in.png)  
+![Create Account](docs/screenshots/create-account.png)  
+![Verify Email](docs/screenshots/verify-email.png)  
+![Forgot Password](docs/screenshots/forget-password.png)  
+
+### 👤 User Profile Setup
+![Enter Name](docs/screenshots/name.png)  
+![Gender & Age](docs/screenshots/gender-age.png)  
+
+### 📲 Main App
+![Home](docs/screenshots/home.png)  
+![Skin Scan](docs/screenshots/scan.png)  
+![Scan Instructions](docs/screenshots/scan-here.png)  
+![History](docs/screenshots/history.png)  
+![Settings](docs/screenshots/settings.png)  
 
 ---
 
