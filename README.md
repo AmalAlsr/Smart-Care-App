@@ -54,18 +54,18 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 1. Clone this repository:
    ```bash
    git clone https://github.com/AmalAlsr/Smart-Care-App.git
-Open the project in Android Studio or VS Code.
+2 Open the project in Android Studio or VS Code.
 
-Install dependencies:
+3 Install dependencies:
 
 flutter pub get
-
-
+---
 Run the app:
+---
+flutter run 
 
-flutter run
 
-👩‍💻 Team Members
+### 👩‍💻 Team Members
 
 Amal Abdullah Alsirhani
 
@@ -76,8 +76,8 @@ Danah Mohammed Alrwaili
 Abeer Mohammed Alruwaili
 
 Supervisor: Dr. Abdulaziz Ibrahim Shehab
-
-📜 License
+---
+### 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
