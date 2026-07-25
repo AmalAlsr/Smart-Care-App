@@ -35,7 +35,7 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 ![Sign In](docs/screenshots/sign-in.png)  
 ![Create Account](docs/screenshots/create-account.png)  
 ![Verify Email](docs/screenshots/verify-email.png)  
-![forget-password](docs/screenshots/forget-password(1).png)
+![forget-password(1)](docs/screenshots/forget-password(1).png)
 
 ### 👤 User Profile Setup
 ![Enter Name](docs/screenshots/name.png)  
