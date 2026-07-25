@@ -1,6 +1,6 @@
 # Smart-Care-App
 
-AI-powered mobile application for skin disease detection and personalized skincare recommendations using **Flutter**, **Firebase**, and **TensorFlow**.
+An AI-powered mobile application that detects skin diseases and provides personalized skincare recommendations using Flutter, Firebase, and TensorFlow.
 
 ---
 
@@ -11,11 +11,11 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 ---
 
 ## 🎯 Features
-- 🔍 Skin disease detection using Convolutional Neural Networks (CNN).  
-- 📷 Real-time image analysis with the smartphone camera.  
-- 💡 Personalized skincare routines and product suggestions.  
-- 📝 History tracking for monitoring skin improvements.  
-- 🔐 Secure user authentication and data storage.  
+- 🔍 Detect skin diseases using a Convolutional Neural Network (CNN).  
+- 📷 Analyze skin images captured with the smartphone camera.  
+- 💡 Provide personalized skincare recommendations.  
+- 📝 Store scan history for progress tracking.  
+- 🔐 Secure user authentication and cloud data storage.  
 
 ---
 
@@ -50,33 +50,30 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/AmalAlsr/Smart-Care-App.git
-2 Open the project in Android Studio or VS Code.
 
-3 Install dependencies:
-
+```bash
+git clone https://github.com/AmalAlsr/Smart-Care-App.git
+cd Smart-Care-App
 flutter pub get
+flutter run
+```
 
-Run the app:
-
-flutter run 
+Open the project using Android Studio or VS Code before running the commands.
 
 
-### 👩‍💻 Team Members
----
-Amal Abdullah Alsirhani
+## 👥 Project Information
 
-Enas Naif Alhudaib
+Developed as a graduation project by a student team.
 
-Danah Mohammed Alrwaili
+## 👩‍💻 My Contribution
 
-Abeer Mohammed Alruwaili
-
-Supervisor: Dr. Abdulaziz Ibrahim Shehab
+- Designed the UI/UX using Figma.
+- Developed parts of the Flutter application.
+- Integrated Firebase services.
+- Participated in system analysis and application testing.
+- Contributed to project documentation.
 
 ### 📜 License
----
+This project is licensed under the MIT License.
 This project is licensed under the MIT License – see the LICENSE
  file for details.
