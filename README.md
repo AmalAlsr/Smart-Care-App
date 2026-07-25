@@ -74,6 +74,7 @@ Developed as a graduation project by a student team.
 - Contributed to project documentation.
 
 ### 📜 License
+
 This project is licensed under the MIT License.
 This project is licensed under the MIT License – see the LICENSE
  file for details.
