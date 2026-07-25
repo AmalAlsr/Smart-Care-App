@@ -44,7 +44,6 @@ It uses **Flutter** for cross-platform development, **Firebase** for backend ser
 ### 📲 Main App
 ![Home](docs/screenshots/home.png)  
 ![Skin Scan](docs/screenshots/scan.png)  
-![Scan Instructions](docs/screenshots/scan-here.png)  
 ![History](docs/screenshots/history.png)  
 ![Settings](docs/screenshots/settings.png)  
 
