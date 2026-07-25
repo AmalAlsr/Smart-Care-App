@@ -73,7 +73,7 @@ Developed as a graduation project by a student team.
 - Participated in system analysis and application testing.
 - Contributed to project documentation.
 
-### 📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 This project is licensed under the MIT License – see the LICENSE
